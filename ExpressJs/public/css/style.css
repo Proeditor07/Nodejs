@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+}
+
+.footer{
+    font-family: "comic sans ms";
+    font-size: 50px;
+}
+footer{
+    color: red;
+    font-size: 50px;
+
+}
